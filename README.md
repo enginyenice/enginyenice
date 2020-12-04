@@ -9,11 +9,12 @@ I'm Engin Yenice. Computer Technician and Computer Engineer Student
 
 ## Graduation
 
-Computer Technician |  [Kocaeli University](http://www.kocaeli.edu.tr/)
-Computer Engineer (2022) |  [Kocaeli University](http://www.kocaeli.edu.tr/)
+- Computer Technician |  [Kocaeli University](http://www.kocaeli.edu.tr/)
+
+- Computer Engineer (2022) |  [Kocaeli University](http://www.kocaeli.edu.tr/)
 
 ## I'm currently working on 🔭
-
+--
 
 ## Contact Me 📫
 enginyenice2626@gmail.com
