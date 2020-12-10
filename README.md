@@ -18,8 +18,8 @@ I'm Engin Yenice. Computer Technician and Computer Engineer Student
 
 ## Contact Me 📫
 
-[enginyenice2626@gmail.com](mailto:enginyenice2626@gmail.com)
-[enginyenice.com](https://enginyenice.com/)
+- [enginyenice2626@gmail.com](mailto:enginyenice2626@gmail.com)
+- [enginyenice.com](https://enginyenice.com/)
 
 
 
