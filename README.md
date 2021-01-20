@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Talep_Yogunlugunun_Multithread_Kontrolu](https://github.com/enginyenice/Talep_Yogunlugunun_Multithread_Kontrolu)
+- 🔭 I’m currently working on [MovieX-Mobil-App-Ionic-Angular](https://github.com/enginyenice/MovieX-Mobil-App-Ionic-Angular)
 
 - 🌱 I’m currently learning **C#**
 
