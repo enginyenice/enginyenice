@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on [StockTracking](http://bilgisayar.kocaeli.edu.tr/upload/duyurular//0602210103327467d.pdf) (Private) 
+- 🔭 I’m currently working on [StockTracking.](http://bilgisayar.kocaeli.edu.tr/upload/duyurular//0602210103327467d.pdf) (Private) 
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/enginyenice?tab=repositories](https://github.com/enginyenice?tab=repositories)
+- 👨‍💻 All of my projects are available at [all repository.](https://github.com/enginyenice?tab=repositories)
 
 - 📝 I regularly write articles on [https://enginyenice.com/](https://enginyenice.com/)
 
