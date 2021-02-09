@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [MovieX-Mobil-App-Ionic-Angular](https://github.com/enginyenice/MovieX-Mobil-App-Ionic-Angular)
+- 🔭 I’m currently working on [StockTracking](http://bilgisayar.kocaeli.edu.tr/upload/duyurular//0602210103327467d.pdf) (Private) 
 
 - 🌱 I’m currently learning **C#**
 
