@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [StockTracking.](http://bilgisayar.kocaeli.edu.tr/upload/duyurular//0602210103327467d.pdf) (Private) 
+- 🔭 I’m currently working on [ReCapProject.](https://github.com/enginyenice/ReCapProject)
 
 - 🌱 I’m currently learning **C#**
 
@@ -13,6 +13,7 @@
 - 📝 I regularly write articles on [https://enginyenice.com/](https://enginyenice.com/)
 
 - 📫 How to reach me **enginyenice2626@gmail.com**
+- :link: My LinkedIn account [LinkedIn](https://www.linkedin.com/in/engin-yenice-a78436148/)
 
 <p align="left"> <a href="https://twitter.com/yenice_engin" target="blank"><img src="https://img.shields.io/twitter/follow/yenice_engin?logo=twitter&style=for-the-badge" alt="yenice_engin" /></a> </p>
 
