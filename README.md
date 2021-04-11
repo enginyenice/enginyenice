@@ -4,8 +4,6 @@
 
 
 
-- 🔭 I’m currently working on [ReCapProject.](https://github.com/enginyenice/ReCapProject)
-
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [all repository.](https://github.com/enginyenice?tab=repositories)
