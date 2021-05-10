@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engin Yenice</h1>
 <h3 align="center">I'm Engin Yenice. Computer Technician and Computer Engineer Student</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=8&margin-w=20&margin-h=5)](https://enginyenice.com/)
 
 
 
