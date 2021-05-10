@@ -2,10 +2,11 @@
 
 <h3 align="center">I'm Engin Yenice. Computer Technician and Computer Engineer Student</h3>
 
-<a href="https://enginyenice.com/">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=8&margin-w=20&margin-h=5"> 
+<p align="center">
+<a align="center"  href="https://enginyenice.com/">
+  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=7"> 
 </a>
-
+</p>
 <h2 align="center">Social Media</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/engin-yenice-a78436148/">
