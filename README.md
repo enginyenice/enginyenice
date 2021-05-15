@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Engin Yenice</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Engin Yenice</h1>
 
 <h3 align="center">I'm Engin Yenice. Computer Technician and Computer Engineer Student</h3>
 
@@ -7,6 +7,13 @@
   <img align="center"  src="https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=7"> 
 </a>
 </p>
+<h2 align="center">Status</h2>
+<p align="center">
+<a href="https://enginyenice.com/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginyenice&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Engin Yenice" />
+</a>
+</p>
+
 <h2 align="center">Social Media</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/engin-yenice-a78436148/">
