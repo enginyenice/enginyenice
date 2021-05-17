@@ -10,6 +10,19 @@
 <h2 align="center"><i>Status</i></h2>
 <p align="center">
 <a href="https://enginyenice.com/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enginyenice&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="enginyenice" /
+</a>
+</p>
+
+
+<p align="center">
+<a href="https://enginyenice.com/">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enginyenice&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Engin Yenice" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://enginyenice.com/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=enginyenice&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Engin Yenice" />
 </a>
 </p>
