@@ -4,7 +4,7 @@
 
 <p align="center">
 <a align="center"  href="https://enginyenice.com/">
-  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=7"> 
+  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=enginyenice&no-frame=true&no-bg=true&theme=monokai&column=7&include_all_commits=true&count_private=true"> 
 </a>
 </p>
 <h2 align="center"><i>Status</i></h2>
