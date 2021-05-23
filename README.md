@@ -28,6 +28,14 @@
 </p>
 
 
+<p align="center">
+<a href="https://enginyenice.com/">
+<img align="center" src="https://www.codewars.com/users/enginyenice/badges/large" alt="Engin Yenice" />
+</a>
+</p>
+
+
+
 <h2 align="center"><i>Social Media</i></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/engin-yenice-a78436148/">
