@@ -39,15 +39,15 @@
 <h2 align="center"><i>Social Media</i></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/engin-yenice-a78436148/">
-  <img align="center" src="https://files.enginyenice.com/images/linkedin-circle.png" width="64">
+  LinkedIn
 </a>
-
+ | 
 <a href="https://twitter.com/yenice_engin">
-  <img align="center" src="https://files.enginyenice.com/images/twitter-circle.png" width="64">
+  Twitter
 </a>
-
+ | 
 <a href="https://www.instagram.com/ngn.yenice/">
-  <img align="center" src="https://files.enginyenice.com/images/instagram-circle.png" width="64">
+  Instagram
 </a>
 </p>
 
