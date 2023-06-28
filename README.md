@@ -3,7 +3,7 @@ Hello, my name is Engin Yenice. I was born in 1998 in Eskisehir, Turkey. I gradu
 
 
 ## 🌐 Socials:
-[![Enginyenice.com](https://img.shields.io/badge/engin.yenice.com-43E55E?logo=southwestairlines)](https://enginyenice.com)
+[![Enginyenice.com](https://img.shields.io/badge/enginyenice.com-43E55E?logo=southwestairlines)](https://enginyenice.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/engin.yenice) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngn.yenice) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enginyenice) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yenice_engin) 
 
 
